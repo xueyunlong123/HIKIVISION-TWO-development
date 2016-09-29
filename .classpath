@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/ClientDemo.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/commons-logging-1.0.3.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/examples.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/jcl-over-slf4j-1.7.7.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/jna - 副本.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/jna.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/jzlib-1.1.3.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/mina-core-2.0.9.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/mina-example-2.0.9.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/mina-filter-compression-2.0.9.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/mina-http-2.0.9.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/mina-integration-beans-2.0.9.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/mina-integration-jmx-2.0.9.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/mina-integration-ognl-2.0.9.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/mina-integration-xbean-2.0.9.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/mina-statemachine-2.0.9.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/mina-transport-apr-2.0.9.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/ognl-3.0.8.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/slf4j-log4j12-1.7.7.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/slf4j-nop-1.7.7.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/slf4j-simple-1.7.7.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/spring-2.5.6.SEC03.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/tomcat-apr-5.5.23.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jar/xbean-spring-4.0.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/jxl.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/quaqua.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/substance-4.3.jar"/>
+	<classpathentry kind="lib" path="G:/大二学习/java/weblaf-demo-1.28.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
